@@ -1,4 +1,4 @@
-Image of mcl car
+![mcl 38]({github}/mcl-38.png)
 
 # Analyzing the \{First 14 Races} of the 2024 F1 Season
 
