@@ -6,7 +6,7 @@ AI chat applications have been around for a while, yet their adoption hasn't bee
 
 ## Designing AI-Powered Apps: \{Why Commands} are Better Than Chat
 
-When designing an AI-powered app, it’s more effective to use commands rather than relying solely on a chat interface. The problem with a plain chat interface is that users don't know what the AI can do. They are often presented with a blank slate and expected to interact with it as though they fully understand its capabilities. This assumption—expecting users to just "figure it out"—is a mistake.
+When designing an AI-powered app, it’s more effective to use commands rather than relying solely on a chat interface. [The problem with a plain chat interface is that users don't know what the AI can do](https://x.com/karpathy/status/1841512260784816329). They are often presented with a blank slate and expected to interact with it as though they fully understand its capabilities. This assumption—expecting users to just "figure it out"—is a mistake.
 
 Example chat interface
 
